@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: Unlicense
-pragma solidity ^0.7.5; // 0.7.5;
+pragma solidity ^0.7.5;
 
 import "./IERC20.sol";
 import "./IWETHGateway.sol";
